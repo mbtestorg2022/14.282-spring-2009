@@ -42,8 +42,45 @@ In addition to the model-development essays, there are two other requirements: a
 Grading
 -------
 
-| ACTIVITIES | WEIGHTS |
-| --- | --- |
-| Model-development essays (3) | 1/3 |
-| Handbook-review paper | 1/6 |
-| Final paper | 1/2
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+WEIGHTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Model-development essays (3)
+{{< tdclose >}}
+{{< tdopen >}}
+1/3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Handbook-review paper
+{{< tdclose >}}
+{{< tdopen >}}
+1/6
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final paper
+{{< tdclose >}}
+{{< tdopen >}}
+1/2
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
